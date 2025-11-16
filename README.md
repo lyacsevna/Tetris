@@ -26,7 +26,7 @@
 
 Клонируйте репозиторий, установите необходимые зависимости и играйте:
 ```bash
-git clone https://github.com/your-username/python-tetris.git
+git clone https://github.com/lyacsevna/Tetris.git
 cd python-tetris
 pip install pygame
 python tetris.py
